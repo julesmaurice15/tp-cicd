@@ -18,7 +18,7 @@ classifiers = [
 ]
 
 [project.urls]
-Source = "https://github.com/yourusername/tp-cicd"
+Source = "https://github.com/julesmaurice15/tp-cicd"
 
 [tool.black]
 line-length = 88
