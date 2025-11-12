@@ -2,9 +2,11 @@
 
 __version__ = "0.1.0"
 
-from .calculator import add, subtract
-from .calculator import multiply, divide
 from .calculator import (
+    add,
+    subtract,
+    multiply,
+    divide,
     power,
     square_root,
     factorial,
